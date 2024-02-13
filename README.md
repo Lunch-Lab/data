@@ -7,3 +7,11 @@
 
 # naver review data 
 : 강남역 음식점 정보를 naver 지도를 사용하여 가져옵니다. 
+
+
+# kakao_star_finder
+: 다음카카오지도에서 음식점의 별점을 가져옵니다. 
+
+
+# 
+전처리를 끝낸 유저, 음식점 데이터를 MariaDB에 연동할 예정 
