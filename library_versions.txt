@@ -1,0 +1,4 @@
+Selenium: 3.14.1
+Pandas: 1.4.2
+NumPy: 1.23.5
+WebDriverWait: selenium.webdriver.support.wait
